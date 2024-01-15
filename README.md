@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ozaniko
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Node.js and Express.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
