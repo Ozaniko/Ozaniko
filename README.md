@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ozaniko
 - 👀 I’m interested in coding
-- 🌱 I’m currently improving on my MERN stack knowledge
+- 🌱 I’m currently improving on my Dart knowledge
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
